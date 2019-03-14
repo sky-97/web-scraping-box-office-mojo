@@ -12,9 +12,9 @@ Access the HTML of the webpage and extract useful information/data from it. This
  
  # Steps involved in web scraping:
 * Step 1: Installing the required third-party libraries
-          * BeautifullSoup
-          * sqlite3
-          * requests
+* BeautifullSoup
+* sqlite3
+* requests
 
 
 * I scraped this site  url -'https://www.boxofficemojo.com/yearly/chart/?yr=2019&p=.htm'
